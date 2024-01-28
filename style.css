@@ -3,11 +3,11 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: linear-gradient(to bottom, #343232, #110e0e);
+    background: black;
 }
 
 .loader {
-    transform: rotateZ(60deg);
+    transform: rotateZ(65deg);
     text-align: center;
 }
 
